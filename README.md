@@ -54,12 +54,13 @@ Not all lots mee the requirement
  - Lot 3 - variance of 170.29, which is over the requirement.  
  Because of the results, Lot 3 is over the requirement, and as a result, does not meet the requirement.
 
-
-
-
-
-
 ## T-Tests on Suspension Coils
+
+We had to perform t- tests to determine if the manufacturing lots are different from the population mean.
+
+1. This T-test is created to determine the PSI across all manufacuturing lots is different from the population mean of 1500pounds per square inch.
+
+
 
 
 ## Study Design: MechaCar vs Competition
