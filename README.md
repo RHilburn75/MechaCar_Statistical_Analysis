@@ -24,7 +24,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
  2. Is the slope of the linear model considered to be zero? Why or why not?
  
- 
+ The slope of the linear model cannot be considered zero. The p-value of the linear regression analysis is 5.35e-11, which is smaller than the assumed acceptance level of 0.05%. Because of this, there is no significant evidence to reject the null hypothesis, meaning our slope of the linear model is not zero.
 
 
 
