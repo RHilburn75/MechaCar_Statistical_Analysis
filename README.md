@@ -71,9 +71,14 @@ Manufacturing Lot 1
 
 ![image](https://user-images.githubusercontent.com/94253815/158034948-c222a8c7-0b73-415b-9209-5f695afe3e72.png)
 
-
-
+ - The p-value from this test is 1,  which is greater than our assumed acceptance level of 0.05, but it also indicates the observed mean is exactly the same as the population mean.
+ - We can conclude that the PSI  for manufacturing lot 1 equals the population mean of 1,500 PSI.
+ 
+ Manufacturing lot 2
+ 
 ![image](https://user-images.githubusercontent.com/94253815/158034989-d97858e8-538e-4426-90de-0cdf62e6f2c6.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/94253815/158035014-d94af203-7910-4707-810c-1a8953d1ced7.png)
