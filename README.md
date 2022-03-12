@@ -14,6 +14,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
   We first performed a multiple linear regression analysis to determine which variables the MPG.  Using Summary(), we were able to determine the p-value and the r-squared value for the linear regression model.
   
+![image](https://user-images.githubusercontent.com/94253815/158033587-6eec934f-a42c-4e64-b276-3b4dd51a3899.png)
   
 
 
