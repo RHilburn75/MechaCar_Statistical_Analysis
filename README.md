@@ -18,21 +18,27 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
   
 ![image](https://user-images.githubusercontent.com/94253815/158033735-28b59175-2130-4f95-9663-05e76c1cae53.png)
 
- 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
  
   Vehicle_length and ground_clearence are least likley to provide the amount of variance to the mpg value because these two variables have and impact on mpg values.
 
- 2. Is the slope of the linear model considered to be zero? Why or why not?
+2. Is the slope of the linear model considered to be zero? Why or why not?
  
- The slope of the linear model cannot be considered zero. The p-value of the linear regression analysis is 5.35e-11, which is smaller than the assumed acceptance level of 0.05%. Because of this, there is no significant evidence to reject the null hypothesis, meaning our slope of the linear model is not zero.
+   The slope of the linear model cannot be considered zero. The p-value of the linear regression analysis is 5.35e-11, which is smaller than the assumed acceptance level of    0.05%. Because of this, there is no significant evidence to reject the null hypothesis, meaning our slope of the linear model is not zero.
 
+3.  Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-
-
-
-
-
+   The r-squred value is 0.7149 (71.49%), meaning the variability of the dependant variable mpg is explained by the linear expression module. The results show the linear module predicts mpg of MechaCar prototypes positively.
+   
 ## Summary Statistics on Suspension Coils
+
+There were 2 summaries created in this section to summarize the statistics on PSI of the suspension coils from the manufacturing lots.  The charts are below.
+
+This chart is a summary for the entire manufacturing site.
+
+
+
+
 
 
 ## T-Tests on Suspension Coils
