@@ -78,19 +78,58 @@ Manufacturing Lot 1
  
 ![image](https://user-images.githubusercontent.com/94253815/158034989-d97858e8-538e-4426-90de-0cdf62e6f2c6.png)
 
+ - The p- value from this t- test is 0.06072 - greater than our assumed level of 0.05.  We do not have evidence to reject the null hypothesis.
+ - The PSI for manufacturing lot 2 is similar to the population mean of 1,500 PSI.
 
-
+Manufacturing lot 3
 
 ![image](https://user-images.githubusercontent.com/94253815/158035014-d94af203-7910-4707-810c-1a8953d1ced7.png)
 
-
-
-
-
-
-
-
-
+ - The p-value from the t -test for lot 3 is 0.04168 - smaller than our assumed level of 0.05
+ - We do have evidence to reject the null hypothesis and accept the alternative hypothesis.
+ - Lot 3 is not equal to 1,500 PSI
 
 
 ## Study Design: MechaCar vs Competition
+
+For the final section we put together a study of some key metrics and some statistical studies on how the MechaCar would compare to the competition.  The below will state the metrics to measure, the hypothesis, the test we would use, and the data compiled and used to support our hypothesis.
+
+1. What metric or metrics are we going to test?
+
+ - Cost
+ - Fuel Effeciency
+ 
+ I feel these are the top 2 metrics consumers want to know when buying an automobile, especially during these times. Car prices have increased since the pandemic started, due to the high demand and lack of inventory With the increase in the cost of gas, fuel effeciency is quickly becoming the main topic of car discussion.
+ 
+ 2. What is the null hypothesis or alternative hypothesis?
+ 
+ Cost:
+ 
+ Null Hypothesis:  The means of cost of all vehicles in this class are equal.
+ 
+ Alternative Hypothesis: At least one of the vehicles  in this class has a different mean of cost than other vehicles.
+ 
+Fuel Efficiency:
+
+Null Hypothesis:  The means of fuel efficiency of all vehicles in this class are equal.
+ 
+Alternative Hypothesis: At least one of the vehicles in this class has a different mean of fuel efficiency than other vehicles.
+
+3. What statistical test would you use to test the hypothesis? And why?
+
+We'll use the ANOVA test for this study, because ANOVA test is ued to compare the means of continuious numerical variable across multiple groups.
+
+Cost:
+
+One-Way ANOVA test. This test will be used to test the mean cost of MechaCar with multiple competition vehicles' mean cost in the same class
+
+Fuel Efficiency:
+
+Two Way ANOVA test. This test will be used to test the mean of fuel efficiency of MechaCar with multiple competition vehicles' mean fuel efficiency in the same class
+
+4. What data is needed to run the statistical test?
+
+ - Sample size of 50-100 MechaCars, along with 50-100 samples of the competitors vehicles.  This would complete a sufficient analysis.
+ - For cost, we would sample the same vehicles to find the mean fule efficiency.
+
+
