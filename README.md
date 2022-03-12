@@ -68,6 +68,7 @@ We had to perform t- tests to determine if the manufacturing lots are different 
 The following three t- test are used to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 PSI.
 
 Manufacturing Lot 1
+
 ![image](https://user-images.githubusercontent.com/94253815/158034948-c222a8c7-0b73-415b-9209-5f695afe3e72.png)
 
 
