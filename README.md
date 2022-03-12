@@ -63,6 +63,7 @@ We had to perform t- tests to determine if the manufacturing lots are different 
 ![image](https://user-images.githubusercontent.com/94253815/158034873-86690d8f-a9c9-493d-8fde-6daa1b47ed1c.png)
 
 
+![image](https://user-images.githubusercontent.com/94253815/158034948-c222a8c7-0b73-415b-9209-5f695afe3e72.png)
 
 
 
