@@ -61,9 +61,15 @@ We had to perform t- tests to determine if the manufacturing lots are different 
 1. This T-test is created to determine the PSI across all manufacuturing lots is different from the population mean of 1500pounds per square inch.
 
 ![image](https://user-images.githubusercontent.com/94253815/158034873-86690d8f-a9c9-493d-8fde-6daa1b47ed1c.png)
+ - P-Value = 0.06028 which is greater than our assumed level of 0.05.  Because of this, we do not have enough evidence to reject the null hypothesis.
+ - Accept the null hypothesis and and reject the alternative hypothesis
+ The PSI across all manufacturing lots are statistically similar to the population mean of 1,500 pounds per square inch.
 
+The following three t- test are used to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 PSI.
 
+Manufacturing Lot 1
 ![image](https://user-images.githubusercontent.com/94253815/158034948-c222a8c7-0b73-415b-9209-5f695afe3e72.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/94253815/158034989-d97858e8-538e-4426-90de-0cdf62e6f2c6.png)
