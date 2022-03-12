@@ -36,6 +36,11 @@ There were 2 summaries created in this section to summarize the statistics on PS
 
 This chart is a summary for the entire manufacturing site.
 
+![image](https://user-images.githubusercontent.com/94253815/158034319-fb3e1da6-654d-421c-ad63-b4a49c14a6aa.png)
+
+
+This chart shows the summary for each manufacturing lot
+
 
 
 
