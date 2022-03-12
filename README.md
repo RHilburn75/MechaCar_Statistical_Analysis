@@ -16,8 +16,15 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
   
 ![image](https://user-images.githubusercontent.com/94253815/158033587-6eec934f-a42c-4e64-b276-3b4dd51a3899.png)
   
+![image](https://user-images.githubusercontent.com/94253815/158033735-28b59175-2130-4f95-9663-05e76c1cae53.png)
 
+ 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+ 
+  Vehicle_length and ground_clearence are least likley to provide the amount of variance to the mpg value because these two variables have and impact on mpg values.
 
+ 2. Is the slope of the linear model considered to be zero? Why or why not?
+ 
+ 
 
 
 
