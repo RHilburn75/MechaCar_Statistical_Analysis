@@ -60,6 +60,17 @@ We had to perform t- tests to determine if the manufacturing lots are different 
 
 1. This T-test is created to determine the PSI across all manufacuturing lots is different from the population mean of 1500pounds per square inch.
 
+![image](https://user-images.githubusercontent.com/94253815/158034823-7a8adea6-2ec4-4899-b4be-1071ec66850d.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
